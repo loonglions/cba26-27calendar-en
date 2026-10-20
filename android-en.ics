@@ -1,0 +1,549 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CBA Guangzhou Loong Lions//2026-2027 English Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CBA 2026-2027 Guangzhou Loong Lions (English)
+X-WR-CALDESC:Guangzhou Loong Lions 2026-2027 CBA regular season schedule
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:1df03a283f32980e8fff9352e78f0aba@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:🏠 HOME | Round 1 | Guangzhou Loong Lions vs Zhejiang Golden Bull
+ s
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 1\nGame: Guangzhou Loong Lions vs Zhejiang Golden Bulls\nHome/Away: HOME
+ \nVenue: Nansha Gymnasium
+LOCATION:Nansha Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:a1189f6ebb52d60e20bb212dfbd1e5fb@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:✈️ AWAY | Round 2 | Nanjing Monkey Kings vs Guangzhou Loong Lio
+ ns
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 2\nGame: Nanjing Monkey Kings vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20a0d8289532535b4ccb5bfcb34ad950@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:✈️ AWAY | Round 3 | Tianjin Pioneers vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 3\nGame: Tianjin Pioneers vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:a9823a6717b94d8010284c79df3ee629@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:✈️ AWAY | Round 4 | Beijing Ducks vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 4\nGame: Beijing Ducks vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:5a423390ac3c77eebe0a672322e32c7e@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🏠 HOME | Round 5 | Guangzhou Loong Lions vs Beijing Royal Fighte
+ rs
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 5\nGame: Guangzhou Loong Lions vs Beijing Royal Fighters\nHome/Away: HOM
+ E\nVenue: Nansha Gymnasium
+LOCATION:Nansha Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:e413aead4c913b643ba2d4363bb78d5e@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🏠 HOME | Round 6 | Guangzhou Loong Lions vs Shanxi Loongs
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 6\nGame: Guangzhou Loong Lions vs Shanxi Loongs\nHome/Away: HOME\nVenue:
+  Nansha Gymnasium
+LOCATION:Nansha Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:6cdf3ef6416f58f7dcc595b095c44c78@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:✈️ AWAY | Round 7 | Jilin Northeast Tigers vs Guangzhou Loong L
+ ions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 7\nGame: Jilin Northeast Tigers vs Guangzhou Loong Lions\nHome/Away: AWA
+ Y
+END:VEVENT
+BEGIN:VEVENT
+UID:2a7cdffe7ff3d2d5e037ed688bea2951@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:✈️ AWAY | Round 8 | Liaoning Flying Leopards vs Guangzhou Loong
+  Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 8\nGame: Liaoning Flying Leopards vs Guangzhou Loong Lions\nHome/Away: A
+ WAY
+END:VEVENT
+BEGIN:VEVENT
+UID:595284d6f496aaeac88b1b15fc174fd6@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:✈️ AWAY | Round 9 | Qingdao Eagles vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 9\nGame: Qingdao Eagles vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5031f36bc928412ffe01e1228e26ae@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:✈️ AWAY | Round 10 | Fujian Sturgeons vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 10\nGame: Fujian Sturgeons vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:666dec9a0ea42408c674c8faebe24721@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🏠 HOME | Round 11 | Guangzhou Loong Lions vs Xinjiang Flying Tig
+ ers
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 11\nGame: Guangzhou Loong Lions vs Xinjiang Flying Tigers\nHome/Away: HO
+ ME\nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:8a815e5949f5c4f35088f4814762f2bd@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🏠 HOME | Round 12 | Guangzhou Loong Lions vs Qingdao Eagles
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 12\nGame: Guangzhou Loong Lions vs Qingdao Eagles\nHome/Away: HOME\nVenu
+ e: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:3a167273d5bf777735b6a6e7e2be4887@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:🏠 HOME | Round 13 | Guangzhou Loong Lions vs Beijing Royal Fight
+ ers
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 13\nGame: Guangzhou Loong Lions vs Beijing Royal Fighters\nHome/Away: HO
+ ME\nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:1f355aa290facc1f92c6a045edd4e3e1@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🏠 HOME | Round 14 | Guangzhou Loong Lions vs Sichuan Blue Whales
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 14\nGame: Guangzhou Loong Lions vs Sichuan Blue Whales\nHome/Away: HOME\
+ nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:d7aba3bf633503ed54a6a67888907633@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:✈️ AWAY | Round 15 | Shandong Hi-Speed Kirin vs Guangzhou Loong
+  Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 15\nGame: Shandong Hi-Speed Kirin vs Guangzhou Loong Lions\nHome/Away: A
+ WAY
+END:VEVENT
+BEGIN:VEVENT
+UID:4152b35046efa73db7f275d3fad4a049@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:✈️ AWAY | Round 16 | Xinjiang Flying Tigers vs Guangzhou Loong 
+ Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 16\nGame: Xinjiang Flying Tigers vs Guangzhou Loong Lions\nHome/Away: AW
+ AY
+END:VEVENT
+BEGIN:VEVENT
+UID:9d8b114bd15c29823384e40d39bd57c8@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🏠 HOME | Round 17 | Guangzhou Loong Lions vs Zhejiang Guangsha L
+ ions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 17\nGame: Guangzhou Loong Lions vs Zhejiang Guangsha Lions\nHome/Away: H
+ OME\nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:84a5e21147535bf4fbaca147f0956a97@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:✈️ AWAY | Round 18 | Sichuan Blue Whales vs Guangzhou Loong Lio
+ ns
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 18\nGame: Sichuan Blue Whales vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:11cc4e45e15a40d4f9050621c128033b@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:✈️ AWAY | Round 19 | Jiangsu Dragons vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 19\nGame: Jiangsu Dragons vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:eb7786bf4037598dbc219fc870e78fc1@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🏠 HOME | Round 20 | Guangzhou Loong Lions vs Beijing Ducks
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 20\nGame: Guangzhou Loong Lions vs Beijing Ducks\nHome/Away: HOME\nVenue
+ : Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb9536fe32679a17a13be7a87631259@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🏠 HOME | Round 21 | Guangzhou Loong Lions vs Jiangsu Dragons
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 21\nGame: Guangzhou Loong Lions vs Jiangsu Dragons\nHome/Away: HOME\nVen
+ ue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8d94a4341d2a07c8e35d24bb565b65@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:✈️ AWAY | Round 22 | Shanghai Sharks vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 22\nGame: Shanghai Sharks vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf5b169ed659b268024ca8174e70a69@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:✈️ AWAY | Round 23 | Beijing Ducks vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 23\nGame: Beijing Ducks vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:444240ededb771474235962d982884b7@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🏠 HOME | Round 24 | Guangzhou Loong Lions vs Fujian Sturgeons
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 24\nGame: Guangzhou Loong Lions vs Fujian Sturgeons\nHome/Away: HOME\nVe
+ nue: Huadu Dongfeng Gymnasium
+LOCATION:Huadu Dongfeng Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdb6d878f62e31c79966b984d97c239@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:🏠 HOME | Round 25 | Guangzhou Loong Lions vs Ningbo Rockets
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 25\nGame: Guangzhou Loong Lions vs Ningbo Rockets\nHome/Away: HOME\nVenu
+ e: Huadu Dongfeng Gymnasium
+LOCATION:Huadu Dongfeng Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f2712ab385e220572a465d7fa3e2e9@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:✈️ AWAY | Round 26 | Shenzhen Leopards vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 26\nGame: Shenzhen Leopards vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:df866298f1d295f1891124362bdd6de2@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:✈️ AWAY | Round 27 | Zhejiang Guangsha Lions vs Guangzhou Loong
+  Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 27\nGame: Zhejiang Guangsha Lions vs Guangzhou Loong Lions\nHome/Away: A
+ WAY
+END:VEVENT
+BEGIN:VEVENT
+UID:f7899f9c1f37124e3267fa73da839861@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:✈️ AWAY | Round 28 | Guangdong Southern Tigers vs Guangzhou Loo
+ ng Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 28\nGame: Guangdong Southern Tigers vs Guangzhou Loong Lions\nHome/Away:
+  AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ad50c2133b3c56f85dd0b36d7c4f2d@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🏠 HOME | Round 29 | Guangzhou Loong Lions vs Shandong Hi-Speed K
+ irin
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 29\nGame: Guangzhou Loong Lions vs Shandong Hi-Speed Kirin\nHome/Away: H
+ OME\nVenue: Huadu Dongfeng Gymnasium
+LOCATION:Huadu Dongfeng Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:505acff434414dc647eb67f7efecdb66@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🏠 HOME | Round 30 | Guangzhou Loong Lions vs Guangdong Southern 
+ Tigers
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 30\nGame: Guangzhou Loong Lions vs Guangdong Southern Tigers\nHome/Away:
+  HOME\nVenue: Huadu Dongfeng Gymnasium
+LOCATION:Huadu Dongfeng Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:40bcb5ad96c4b187b96639f9c40ca2d2@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:🏠 HOME | Round 31 | Guangzhou Loong Lions vs Shanghai Sharks
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 31\nGame: Guangzhou Loong Lions vs Shanghai Sharks\nHome/Away: HOME\nVen
+ ue: Huadu Dongfeng Gymnasium
+LOCATION:Huadu Dongfeng Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:4112775f3aa3d63ea077910e88339ca9@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:✈️ AWAY | Round 32 | Ningbo Rockets vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 32\nGame: Ningbo Rockets vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:1e111052538d2e334497ef01a0118f6c@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:✈️ AWAY | Round 33 | Beijing Royal Fighters vs Guangzhou Loong 
+ Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 33\nGame: Beijing Royal Fighters vs Guangzhou Loong Lions\nHome/Away: AW
+ AY
+END:VEVENT
+BEGIN:VEVENT
+UID:97362da05afae429a3139a809f840bde@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:🏠 HOME | Round 34 | Guangzhou Loong Lions vs Guangdong Southern 
+ Tigers
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 34\nGame: Guangzhou Loong Lions vs Guangdong Southern Tigers\nHome/Away:
+  HOME\nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:0d03bda503a35533a8d98bbb48fcb070@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🏠 HOME | Round 35 | Guangzhou Loong Lions vs Shenzhen Leopards
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 35\nGame: Guangzhou Loong Lions vs Shenzhen Leopards\nHome/Away: HOME\nV
+ enue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:f55a279a58e8ea2bc383b87fd063e4dc@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:✈️ AWAY | Round 36 | Guangdong Southern Tigers vs Guangzhou Loo
+ ng Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 36\nGame: Guangdong Southern Tigers vs Guangzhou Loong Lions\nHome/Away:
+  AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:b857075ab4009b90b7c0d1c8f85a2cf3@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:🏠 HOME | Round 37 | Guangzhou Loong Lions vs Sichuan Blue Whales
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 37\nGame: Guangzhou Loong Lions vs Sichuan Blue Whales\nHome/Away: HOME\
+ nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:ea795e32d63ab7090b6ebd85a4a00b9b@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:✈️ AWAY | Round 38 | Zhejiang Golden Bulls vs Guangzhou Loong L
+ ions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 38\nGame: Zhejiang Golden Bulls vs Guangzhou Loong Lions\nHome/Away: AWA
+ Y
+END:VEVENT
+BEGIN:VEVENT
+UID:a351979c83bb95938e75d66031a47bf6@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:🏠 HOME | Round 39 | Guangzhou Loong Lions vs Nanjing Monkey King
+ s
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 39\nGame: Guangzhou Loong Lions vs Nanjing Monkey Kings\nHome/Away: HOME
+ \nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:4e55b716ae616b00cc985d2c9dbf1654@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:🏠 HOME | Round 40 | Guangzhou Loong Lions vs Tianjin Pioneers
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 40\nGame: Guangzhou Loong Lions vs Tianjin Pioneers\nHome/Away: HOME\nVe
+ nue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d35842004e910f4a9c0b41d866e525@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🏠 HOME | Round 41 | Guangzhou Loong Lions vs Beijing Ducks
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 41\nGame: Guangzhou Loong Lions vs Beijing Ducks\nHome/Away: HOME\nVenue
+ : Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:1aadf1bd139ef64a0f82d46ea19fa916@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:✈️ AWAY | Round 42 | Beijing Royal Fighters vs Guangzhou Loong 
+ Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 42\nGame: Beijing Royal Fighters vs Guangzhou Loong Lions\nHome/Away: AW
+ AY
+END:VEVENT
+BEGIN:VEVENT
+UID:7c15691c00817d48e19041f7c1aa88b7@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:✈️ AWAY | Round 43 | Shanxi Loongs vs Guangzhou Loong Lions
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 43\nGame: Shanxi Loongs vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+BEGIN:VEVENT
+UID:db192aa37bcb5f35aa7415c603602893@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:🏠 HOME | Round 44 | Guangzhou Loong Lions vs Jilin Northeast Tig
+ ers
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 44\nGame: Guangzhou Loong Lions vs Jilin Northeast Tigers\nHome/Away: HO
+ ME\nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:1e41c3ad26b9c740964c8569a976d15e@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:🏠 HOME | Round 45 | Guangzhou Loong Lions vs Liaoning Flying Leo
+ pards
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 45\nGame: Guangzhou Loong Lions vs Liaoning Flying Leopards\nHome/Away: 
+ HOME\nVenue: Tianhe Gymnasium
+LOCATION:Tianhe Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5ac2c2c5f3ea2f44b54ec223f7fa59@cba-guangzhou-lions
+SEQUENCE:4
+DTSTAMP:20261020T020000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:✈️ AWAY | Round 46 | Sichuan Blue Whales vs Guangzhou Loong Lio
+ ns
+DESCRIPTION:Guangzhou Loong Lions — 2026–2027 CBA Regular Season\nRound
+ : 46\nGame: Sichuan Blue Whales vs Guangzhou Loong Lions\nHome/Away: AWAY
+END:VEVENT
+END:VCALENDAR
